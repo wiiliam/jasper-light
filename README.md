@@ -16,6 +16,7 @@ Jasper Light Switch Module
 YOU: light (or "right")
 JASPER: Okay < toggles pin 0 >
 ```
+[![Jasper Light](http://img.youtube.com/vi/_BbxbmXlyXQ/0.jpg)](http://www.youtube.com/watch?v=_BbxbmXlyXQ)
 
 ## Problems
 - when using PocketSphinx, Jasper will not recognize the word "light" under any circumstances. Instead, it will log the word as "right".
